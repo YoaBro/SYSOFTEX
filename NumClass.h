@@ -1,3 +1,5 @@
+//trial
+
 #ifndef _NUMCLASS_H_
 #define _NUMCLASS_H_
 

@@ -1,4 +1,4 @@
-
+#include "NumClass.h"
 int power(int,int);
 
 

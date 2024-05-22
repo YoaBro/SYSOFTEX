@@ -1,3 +1,4 @@
+#trial
 #Define compiler
 CC = gcc
 #Define any directories containing header files other than /usr/include

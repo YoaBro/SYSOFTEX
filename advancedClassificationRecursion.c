@@ -1,5 +1,5 @@
 #include "NumClass.h"
-
+//trial
 int numDigits(int);
 int power(int, int);
 int calcArmstrongRecursive(int, int);

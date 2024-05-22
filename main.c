@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "NumClass.h"
-
+//trial
 int main(){
    int num1, num2;
 
